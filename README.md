@@ -1,7 +1,5 @@
 # **Masterizando o Contas a Pagar: Funções-Chave e Regras de Negócio para o Controle Financeiro**
 
-## **H1**
-
 A gestão eficiente do Contas a Pagar (CP) é o pilar de qualquer operação financeira robusta. No contexto de um ERP, o módulo de CP não é apenas um espelho do Suprimento, mas sim um centro de controle vital para ajustes, manutenções e o compliance do fluxo de pagamento.
 
 Entender as nuances deste módulo e as regras de negócio que o governam é o que separa um processo reativo de uma gestão proativa e otimizada.
