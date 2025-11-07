@@ -4,8 +4,7 @@ A gestão eficiente do Contas a Pagar (CP) é o pilar de qualquer operação fin
 
 Entender as nuances deste módulo e as regras de negócio que o governam é o que separa um processo reativo de uma gestão proativa e otimizada.
 
----
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hx2EkiGakJ0?si=fFha32q6KPw_DrlL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## **O Poder da Manutenção Direta e a Centralização da Informação**
 
 Embora a maioria dos títulos deva ser originada pelo módulo de Suprimento (Compras), a tela de manutenção de Contas a Pagar é indispensável para a flexibilidade operacional. É aqui que o time financeiro pode resolver pendências sem depender do fluxo de compras, agilizando o ciclo de pagamento.
